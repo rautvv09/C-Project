@@ -1,0 +1,24 @@
+
+---
+
+## 🚫 `.gitignore`
+
+```gitignore
+# Compiled files
+*.exe
+*.out
+*.o
+
+# Binary data files
+*.dat
+
+# Temporary files
+temp.dat
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
