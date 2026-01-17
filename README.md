@@ -24,3 +24,11 @@ This project demonstrates **file handling**, **structures**, and **menu-driven p
   - Menu-driven programming  
 
 ---
+
+---
+
+## ▶️ How to Run the Program
+
+### 1️⃣ Compile the program
+```bash
+gcc library.c -o library
